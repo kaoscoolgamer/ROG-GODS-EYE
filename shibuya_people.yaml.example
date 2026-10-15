@@ -1,8 +1,0 @@
-# Rename to shibuya_people.yaml after preparing a labelled dataset.
-path: ./shibuya_people_dataset
-train: images/train
-val: images/val
-# Optional test split:
-test: images/test
-names:
-  0: person
